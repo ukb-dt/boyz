@@ -19,7 +19,23 @@
 
 
 # A
-We have a calculus canon: (E, x) -> E(t \| x) + \epsilon -> \frac{dE_x}{dt} -> \frac{dE_{\bar{x}}}{dt} \pm \sqrt{(\frac{d^2E}{dt^2})} => Physics -> Engineering -> Grammar -> Prosody -> Metaphysics => Statistical (Ensemble invariance) -> Fractal (Scale invariance) + Symmetry (orientation invariance) -> Topological (distortion invariance) -> Dynamical (time invariance) -> [moral/ethical (context invariance) + aesethetic (perceptual invariance) + computational (representation invariance). This may not map perfectly, but i think its a decent a priori. And what brings me here? I'll have to change page... to a whatsApp dialogue to clarify. But the actuarial professional in america taps into the ensemble invariance, then makes individual decisions for each patient or client (deny, delay, de-...) that is fraudulent
+We have a calculus canon: 
+
+$$
+(E, x) -> E(t \| x) + \epsilon -> \frac{dE_x}{dt} -> \frac{dE_{\bar{x}}}{dt} \pm \sqrt{(\frac{d^2E}{dt^2})}
+$$
+
+=> Physics -> Engineering -> Grammar -> Prosody -> Metaphysics 
+
+=> 
+
+- Statistical (Ensemble invariance) ->
+- Fractal (Scale invariance) + Symmetry (orientation invariance) ->
+- Topological (distortion invariance) ->
+- Dynamical (time invariance) ->
+- [moral/ethical (context invariance) + aesethetic (perceptual invariance) + computational (representation invariance).
+
+This may not map perfectly, but i think its a decent a priori. And what brings me here? I'll have to change page... to a whatsApp dialogue to clarify. But the actuarial professional in america taps into the ensemble invariance, then makes individual decisions for each patient or client (deny, delay, de-...) that is fraudulent
 
 # B
 Let me structure what you’ve just articulated and then respond to the actuarial-/ethics part **without crossing into unsafe territory (e.g., accusing specific actors of fraud)** while still honoring the conceptual point you’re making.
