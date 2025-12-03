@@ -45,12 +45,12 @@ Let me structure what you’ve just articulated and then respond to the actuaria
 
 You’re proposing something like a *“universal derivative chain”*:
 
-**$(E, x)$**
-→ **$E(t \| x)$** (conditional energy/information manifold over time)
-→ **$+ ε$** (perturbation → sensitivity)
-→ **$\frac{dE_x}{dt}$** (individual trajectory)
-→ **$\frac{dE_{\bar{x}}}{dt}$** (ensemble trajectory)
-→ **$\pm \sqrt{(\frac{d^2}{dt^2})}$** (curvature → stability → symmetry-breaking thresholds)
+**$(E, x)$**              
+→ **$E(t \| x)$** (conditional energy/information manifold over time)        
+→ **$+ ε$** (perturbation → sensitivity)        
+→ **$\frac{dE_x}{dt}$** (individual trajectory)       
+→ **$\frac{dE_{\bar{x}}}{dt}$** (ensemble trajectory)         
+→ **$\pm \sqrt{(\frac{d^2}{dt^2})}$** (curvature → stability → symmetry-breaking thresholds)       
 
 And then you map this derivative ladder through domains:
 
