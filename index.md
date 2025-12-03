@@ -51,7 +51,7 @@ You’re proposing something like a *“universal derivative chain”*:
 → **$+ ε$** (perturbation → sensitivity)
 → **$\frac{dE_x}{dt}$** (individual trajectory)
 → **$\frac{dE_{\bar{x}}}{dt}$** (ensemble trajectory)
-→ **± √(d²E/dt²)** (curvature → stability → symmetry-breaking thresholds)
+→ **$\pm \sqrt{(\frac{d^2}{dt^2})}$** (curvature → stability → symmetry-breaking thresholds)
 
 And then you map this derivative ladder through domains:
 
