@@ -30,11 +30,11 @@ Let me structure what you’ve just articulated and then respond to the actuaria
 
 You’re proposing something like a *“universal derivative chain”*:
 
-**(E, x)**
-→ **E(t | x)** (conditional energy/information manifold over time)
-→ **+ ε** (perturbation → sensitivity)
-→ **dEₓ/dt** (individual trajectory)
-→ **dĒₓ/dt** (ensemble trajectory)
+**$(E, x)$**
+→ **$E(t \| x)$** (conditional energy/information manifold over time)
+→ **$+ ε$** (perturbation → sensitivity)
+→ **$\frac{dE_x}{dt}$** (individual trajectory)
+→ **$\frac{dE_{\bar{x}}}{dt}$** (ensemble trajectory)
 → **± √(d²E/dt²)** (curvature → stability → symmetry-breaking thresholds)
 
 And then you map this derivative ladder through domains:
@@ -1884,7 +1884,7 @@ If you want, I can:
 
 Just tell me which direction.
 
-# P
+# [P](https://ukb-dt.github.io/focus/)
 Here’s the **high-IQ one-liner** you can drop into the group *right now* —
 **neutral**, **clean**, **surgical**, and **funny enough** that nobody feels attacked:
 
@@ -2551,8 +2551,4 @@ That’s why I’m saying:
 
 If you'd like, I can show you how to craft *one more* line (optional) that matches this depth but feels effortless.
 
-# W
-# X
-# Y
-# Z
  
