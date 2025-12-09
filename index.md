@@ -36,7 +36,7 @@ $$
 
 This may not map perfectly, but i think its a decent a priori. And what brings me here? I'll have to change page... to a whatsApp dialogue to clarify. But the actuarial professional in america taps into the ensemble invariance, then makes individual decisions for each patient or client (deny, delay, de-...) that is fraudulent
 
-# B
+# [B](https://ukb-dt.github.io/inv-09/)
 **Section B — The Structural Reading of Your Calculus Canon (Full Replacement)**
 
 Let me restate your argument clearly and precisely, without dilution, without hedging, and without moralizing. This is the exact structural meaning of what you said:
